@@ -1,0 +1,6 @@
+Zadatak 2: All customers whose first name are Jamie ,,,,,,,,,
+SELECT * FROM customer WHERE first_name='Jamie';,,,,,,,,,
+,,,,,,,,,
+customer_id,store_id,first_name,last_name,email,address_id,activebool,create_date,last_update,active
+146,1,Jamie,Rice,jamie.rice@sakilacustomer.org,150,TRUE,14-02-06,49:45.7,1
+531,2,Jamie,Waugh,jamie.waugh@sakilacustomer.org,537,TRUE,14-02-06,49:45.7,1

@@ -1,0 +1,4 @@
+Zadatak 4: Minimum and Maximum rental amount,
+"SELECT MIN (amount), MAX (amount) FROM payment;",
+min,max
+0,11.99
